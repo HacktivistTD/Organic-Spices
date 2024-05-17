@@ -280,18 +280,19 @@
 	fill:#FFFFFF;
 }
 .depicter-revert .depicter-2-element-91{
-	font-size:25px;
+	padding:1px 25px 10px 27px;
+	font-size:35px;
 	text-align:center;
 	color:#FFFFFF;
 	font-family:"Quicksand";
-	font-weight:300;
+	font-weight:400;
 	background-color:#1BBD61;
 }
 .depicter-revert .depicter-2-element-91:not(.depicter-hover-off):hover {
 	opacity:0.997;
 	color:#000000;
 	transform:scale(1.376);
-	background-color:#00D9A6;
+	background-color:#1BBD61;
 	border-width:1px;
 	border-style:solid;
 	border-color:#00EE05;
